@@ -3,13 +3,16 @@ Calculator Module - Basic arithmetic operations
 Students will extend this with more functions
 """
 
+
 def add(a, b):
     """Add two numbers together"""
     return a + b
 
+
 def subtract(a, b):
     """Subtract b from a"""
     return a - b
+
 
 def multiply(a, b):
     """Multiply two numbers"""
@@ -19,6 +22,7 @@ def multiply(a, b):
 def divide(a, b):
     """Divide a by b"""
     return a / b
+
 
 # TODO: Students will add multiply, divide, power, sqrt functions
 
